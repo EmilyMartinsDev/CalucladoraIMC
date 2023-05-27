@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:  sans-serif;
+ 
+}
+.container{   
+width: 100%;
+background-color: var(--corPrincipal);
+}
+:root{
+    --corPrincipal:#1e272e;
+    --corSecundaria:#ff4d4d;
+}
